@@ -1,0 +1,29 @@
+
+    
+      
+    
+    li{
+        padding-right: 25px;
+        text-decoration: none;
+        color: black;
+    }
+   
+
+    
+    .second {
+        /* margin-top: 50px; */
+         text-align: center;
+        height: 100vh;
+        background-color:hotpink;
+        padding-top: 50px;
+    }
+    .middle{
+        text-align: center;
+        word-wrap: break-word;
+
+    }
+      
+    .second h6{
+        padding-top: 70px;
+    }
+    

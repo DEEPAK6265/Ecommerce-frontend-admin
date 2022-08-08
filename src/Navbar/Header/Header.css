@@ -1,0 +1,15 @@
+.head{
+    display: flex;
+    margin-top: 5;
+   
+}
+
+.head3{
+    margin-left: 1000px;
+}
+.main{
+    text-align: center;
+    /* margin-left: 500px; */
+    font-size: 30px;
+    margin-top: px;
+}

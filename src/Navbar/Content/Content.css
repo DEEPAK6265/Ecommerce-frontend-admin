@@ -1,0 +1,21 @@
+.App{
+    
+    background-image: url('C:\Users\Deepak\Desktop\phpmyadmin\Ecommerce\Frontand\micro-com\src\images\pexels-sound-on-3394665.jpg');
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.App1{
+    padding-top: 300px;
+}
+.page2{
+    margin-left: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
